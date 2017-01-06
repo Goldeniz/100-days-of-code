@@ -1,30 +1,47 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 02, 2017 
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I just joined FreeCodeCamp and finished the HTML/CSS part
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I feel like it was not too difficult.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 03, 2017 
+##### 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I finished "responsible design with Bootstrap 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: It was not as easy as HTML/CSS I struggled a bit
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 3: January 04, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through "gear up for success" and "JQuery".
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** That part was a lot of fun I can't wait to learn more about that.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+### Day 4: January 05, 2017
+
+**Today's Progress**: I just did my Tribute page on CodePen.
+
+**Thoughts** I'm not to happy with the way it came out. I wish I had done better.
+
+**Link(s) to work**http://codepen.io/miskamoska/pen/PWwYPZ
+
+
+
+### Day 5: January 06, 2017
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**
