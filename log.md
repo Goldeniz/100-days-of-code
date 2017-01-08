@@ -45,3 +45,20 @@
 **Thoughts**
 
 **Link(s) to work**
+
+
+### Day 6: January 07, 2017
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**
+
+### Day 7: January 08, 2017
+
+**Today's Progress**: I have been working on my portfolio
+
+**Thoughts** The tough part is figuring out what you want your website to look like;
+
+**Link(s) to work**http://codepen.io/miskamoska/
