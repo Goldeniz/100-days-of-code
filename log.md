@@ -62,3 +62,11 @@
 **Thoughts** The tough part is figuring out what you want your website to look like;
 
 **Link(s) to work**http://codepen.io/miskamoska/
+
+### Day 8: January 09, 2017
+
+**Today's Progress**: I have been working on my portfolio
+
+**Thoughts** I am having trouble adding my own images on codepen. I can manage to add pictures from the web but I can't add pictures from a folder.
+
+**Link(s) to work**http://codepen.io/miskamoska/pen/YNXWjZ
